@@ -1,0 +1,6 @@
+{
+  "name": "Lumina — 14-Day Brightening Glow Serum",
+  "description": "Modern Filipina skincare brand formulated for tropical humidity. Get brighter, glowing skin in 14 days with Cash on Delivery nationwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
